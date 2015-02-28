@@ -11,4 +11,4 @@ Pacman now follows your mouse and _ghosts can move through walls_.
 
 How long can you last until the ghosts catch up?
 
-![ss](http://puu.sh/ggPCg/a9419324e2.png)
+![screenshot](http://puu.sh/ggQ97/c3cdb25018.png)
