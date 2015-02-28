@@ -10,3 +10,5 @@ Pacman now follows your mouse and _ghosts can move through walls_.
 - The more cherries eaten, the faster Pacman and the ghosts move
 
 How long can you last until the ghosts catch up?
+
+![ss](http://puu.sh/ggPCg/a9419324e2.png)
